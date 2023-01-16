@@ -1,0 +1,6 @@
+devel_space: /home/abdiel/catkin_ws/devel
+install: false
+install_space: /home/abdiel/catkin_ws/install
+profile: default
+source_space: /home/abdiel/catkin_ws/src
+workspace: /home/abdiel/catkin_ws
